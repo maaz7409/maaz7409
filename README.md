@@ -53,8 +53,7 @@
       <p> Classifying email as spam or ham using SVM </p>
       <img src="https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-style&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/email-darkgreen" />
-      <img src="https://img.shields.io/badge/Hypothesis Testing-darkgreen" />  
+      <img src="https://img.shields.io/badge/email-darkgreen" /> 
       <br /><br />
       <a href="https://github.com/maaz7409/email_classifier" /> &rarr; View  </a>
       <br /><br />
