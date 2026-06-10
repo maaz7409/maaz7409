@@ -44,6 +44,8 @@
   </tr>
 </table>
 
+<br/>
+
 ## ML/AI Projects
 
 <table width="100%">
@@ -61,9 +63,61 @@
   </tr>
 </table>
 
+<br/>
+
 ## Scientific Computing/SciML projects
 
-<p align="left">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h2> Hamiltonian Neural Networks (HNN) </h2>
+      <p> Modelling spring mass system with HNNs and comparing it with baseline NNs </p>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-style&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/autograd-darkgreen" /> 
+      <br /><br />
+      <a href="https://github.com/maaz7409/HNN" /> &rarr; View  </a>
+      <br /><br />
+    </td>
+    <td width="50%" valign="top">
+      <h2> SINDy vs. ISINDy </h2>
+      <p> Reconstructing Lorentz system with two different sparse regressions and comparing the approach </p>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-style&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/email-darkgreen" /> 
+      <br /><br />
+      <a href="https://github.com/maaz7409/SINDy_vs_ISINDy" /> &rarr; View  </a>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>  Computationl Fluid Dynamics (CFD) with Python </h2>
+      <p> Making a full CFD solver to observe Von-Karman Vortices </p>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/Numba-00A3E0?style=flat-style&logo=Numba&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-style&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/email-darkgreen" /> 
+      <br /><br />
+      <a href="https://github.com/maaz7409/CFD-with-Python" /> &rarr; View  </a>
+      <br /><br />
+    </td>
+    <td width="50%" valign="top">
+      <h2> Deep Operator Networks (DeepONet) </h2>
+      <p> Surrogate modelling 1D Diffusion with DeepONet </p>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-style&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-style&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/operator learning-darkgreen" /> 
+      <br /><br />
+      <a href="https://github.com/maaz7409/DeepONet" /> &rarr; View  </a>
+      <br /><br />
+    </td>
+  </tr>
+</table>
+
+
+<!-- <p align="left">
   <a href="https://github.com/maaz7409/HNN">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maaz7409&repo=HNN&theme=dark" alt="Project 1" width="48%"/>
   </a>
@@ -79,7 +133,7 @@
   <a href="https://github.com/maaz7409/DeepONet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maaz7409&repo=DeepONet&theme=dark" alt="Project 4" width="48%"/>
   </a>
-</p>
+</p> -->
 
 
 
