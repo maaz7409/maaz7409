@@ -5,9 +5,7 @@
     <b> Machine Learning/Artificial Intelligence </b> | <b> Scientific Computing </b>
   </p>
 
-  <br />
   
-  <br />
   
 </div>
 
@@ -48,11 +46,21 @@
 
 ## ML/AI Projects
 
-<p align="left">
-  <a href="https://github.com/maaz7409/email_classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maaz7409&repo=email_classifier&theme=dark" alt="Project 1" width="48%"/>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h2> Email CLassification  </h2>
+      <p> Classifying email as spam or ham using SVM </p>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-style&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/email-darkgreen" />
+      <img src="https://img.shields.io/badge/Hypothesis Testing-darkgreen" />  
+      <br /><br />
+      <a href="https://github.com/maaz7409/email_classifier" /> &rarr; View  </a>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
 ## Scientific Computing/SciML projects
 
