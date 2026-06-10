@@ -2,11 +2,27 @@
   <h1> Hey, I'm Maaz </h1>
   <h3> 3rd Year Student at IIT (ISM) Dhanbad </h3>
   <p>
-    <b> Machine Learning/Artificial Intelligence </b> | <b> Scientific Computing </b>
+    <b> Machine Learning / Artifical Intelligence </b> | <b> Scientific Computing </b>
+  <!-- Github Stats
   </p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maaz7409&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz7409&layout=compact&theme=dark" alt="Top Languages" />
+  </p> 
+    -->
+    <p align="center">
+  <!-- Public Repositories -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaaz7409&query=%24.public_repos&label=repositories&style=flat&logo=github&logoColor=white&color=darkgreen" alt="Repositories" />
 
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/maaz7409?style=flat&logo=github&logoColor=white&color=darkgreen&label=total%20stars" alt="Total Stars" />
   
-  
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/maaz7409?style=flat&logo=github&logoColor=white&color=darkgreen&label=followers" alt="Followers" />
+
+  <!-- Total Commits (Manual/Static placeholder) -->
+  <img src="https://img.shields.io/badge/total%20commits-30%2B-darkgreen?style=flat&logo=github&logoColor=white" alt="Total Commits" />
+    </p>
 </div>
 
 ## Tech Stack 
