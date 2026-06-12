@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/github/followers/maaz7409?style=flat&logo=github&logoColor=white&color=darkgreen&label=followers" alt="Followers" />
 
   <!-- Total Commits (Manual/Static placeholder) -->
-  <img src="https://img.shields.io/badge/total%20commits-30%2B-darkgreen?style=flat&logo=github&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/total%20commits-50%2B-darkgreen?style=flat&logo=github&logoColor=white" alt="Total Commits" />
     </p>
 </div>
 
