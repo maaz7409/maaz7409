@@ -2,9 +2,9 @@
   <h1> Hey, I'm Maaz </h1>
   <h3> 3rd Year Student at IIT (ISM) Dhanbad </h3>
   <p>
-    <b> Machine Learning / Artifical Intelligence </b> | <b> Scientific Computing </b>
-  <!-- Github Stats
+    <h3> Machine Learning / Artifical Intelligence |  Scientific Computing </h3>
   </p>
+  <!-- Github Stats
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maaz7409&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz7409&layout=compact&theme=dark" alt="Top Languages" />
