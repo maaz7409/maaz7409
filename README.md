@@ -44,7 +44,7 @@
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## Current Project(s)
+## Current/Ongoing Project(s)
 
 <table width="100%">
   <tr>
@@ -69,11 +69,29 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h2> Ecommerce Customer Churn Predictor </h2>
+      <p> Predicting whether a customer will churn out from particular corporation based on behavioural and personal data </p>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat-style&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-style&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/XGBoost-blue" /> 
+      <img src="https://img.shields.io/badge/FastAPI-005571.svg?style=flat-style&logo=fastapi" />
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-style&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-style&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/SMOTE-darkgreen" /> 
+      <img src="https://img.shields.io/badge/Ensemble Learning-darkgreen" /> 
+      <br /><br />
+      <a href="https://github.com/maaz7409/customer-churn-predictor" /> &rarr; View Code </a>
+      <br /><br />
+      <a href="https://ecommerce-customer-churn-predictor.vercel.app/" /> &rarr; View Site </a>
+      <br /><br />
+    </td>
+    <td width="50%" valign="top">
       <h2> Email CLassification  </h2>
       <p> Classifying email as spam or ham using SVM </p>
       <img src="https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-style&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/email-darkgreen" /> 
+      <img src="https://img.shields.io/badge/email module-darkgreen" /> 
       <br /><br />
       <a href="https://github.com/maaz7409/email_classifier" /> &rarr; View  </a>
       <br /><br />
