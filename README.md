@@ -118,7 +118,7 @@
     </td>
     <td width="50%" valign="top">
       <h2> SINDy vs. ISINDy </h2>
-      <p> Reconstructing Lorentz system with two different sparse regressions and comparing the approach </p>
+      <p> Reconstructing Lorentz system with two different sparse regressions and comparing the results </p>
       <img src="https://img.shields.io/badge/python-3670A0?style=flat-style&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-style&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-style&logo=Matplotlib&logoColor=black" />
