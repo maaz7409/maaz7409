@@ -25,6 +25,20 @@
     </p>
 </div>
 
+<!-- uncomment this when u reach 50 PRs merged
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-stats-extended.vercel.app/api?username=maaz7409&amp;include_all_commits=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;rank_icon=percentile&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=tokyonight" />
+    </td>
+    <td>
+      <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maaz7409&amp;hide=jupyter%20notebook&amp;hide_border=true&amp;theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+-->
+
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
