@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hey, I'm Maaz </h1>
   <p>
-  <h3> 3rd Year Student at IIT (ISM) Dhanbad </h3>
+  <h3> Junior year student at IIT (ISM) Dhanbad </h3>
   <h3> Machine Learning / Artifical Intelligence |  Scientific Computing </h3>
   </p>
   <!-- Github Stats
